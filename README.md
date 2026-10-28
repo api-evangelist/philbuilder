@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-PhilBuilder is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://apiphilbuilder.netlify.app
+PhilBuilder provides an API (v1) that allows developers to generate Android and Windows builds, manage API keys, upload ZIP or icon packages, and monitor build status and quotas. The service is documented in French and offers endpoints for key creation, revocation, and usage tracking, as well as plan information and pricing details. It aims to streamline mobile and desktop application distribution via automated build pipelines.
+
+**Areas:** Company · API · BuildAutomation · Mobile · Desktop
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://apiphilbuilder.netlify.app)
+- [Documentation](https://apiphilbuilder.netlify.app/#intro)
+- [Getting started](https://apiphilbuilder.netlify.app/#intro)
+- [Pricing](https://apiphilbuilder.netlify.app/#plans)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/philbuilder/](https://apis.io/providers/philbuilder/).
